@@ -3,12 +3,12 @@ public class hello {
     public static void main(String[] args) {
         System.out.println("Hello Worlf");
 
-        greeting("Git");
+        display();
     }
 
-    public static void greeting(String name) {
+    public static void display( ) {
 
-        System.out.println("Bye Bye" + name);
+        System.out.println(Hello Hello);
         
     }
 
