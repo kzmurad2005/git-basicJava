@@ -3,10 +3,11 @@ public class hello {
     public static void main(String[] args) {
         System.out.println("Hello Worlf");
 
-        greeting("Kazi Murad");
+        display();
     }
 
-    public static void greeting(String name) {
+    public static void display( ) {
+
 
         System.out.println("Welcome" + name);
 
@@ -14,6 +15,9 @@ public class hello {
 
             return x*x;
         }
+
+        System.out.println(Hello Hello);
+
         
     }
 
